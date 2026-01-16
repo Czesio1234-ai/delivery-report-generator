@@ -1,0 +1,7 @@
+date,driver,km,delivery_time_min,city
+2026-01-10,Jonas,42,55,Aarhus
+2026-01-10,Mikkel,18,30,Aarhus
+2026-01-10,Ali,64,80,Aarhus
+2026-01-11,Jonas,50,60,Aarhus
+2026-01-11,Mikkel,22,35,Aarhus
+2026-01-11,Ali,70,90,Aarhus 
